@@ -307,18 +307,18 @@ function App() {
               </CardHeader>
               <CardContent className="space-y-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                  <img src="/images/mapa_ocorrencias_primatas.png" alt="Mapa de Ocorrências de Primatas" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/riqueza_por_regiao.png" alt="Riqueza de Espécies por Região" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/hotspots_mata_atlantica.png" alt="Hotspots de Riqueza de Primatas na Mata Atlântica" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/hotspots_riqueza_congo_forest.png" alt="Hotspots de Riqueza de Primatas na Floresta do Congo" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/diversidade_shannon_por_regiao.png" alt="Índice de diversidade shannon" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/diversidade_simpson_por_regiao.png" alt="Índice de diversidade simpsom" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/Rplot.png" alt="Dotplot região avaliada" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/Rplot08.png" alt="Densidade de região avaliada" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/Rplot09.png" alt="TOP10 espécies mais abundantes" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/Rplot10.png" alt="Medidas resumo" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/Rplot11.png" alt="Árvore de relações" className="w-full h-auto rounded-lg shadow-md" />
-                  <img src="/images/Rplot12.png" alt="Densidade dos desvios avaliados" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/mapa_ocorrencias_primatas.png" alt="Mapa de Ocorrências de Primatas" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/riqueza_por_regiao.png" alt="Riqueza de Espécies por Região" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/hotspots_mata_atlantica.png" alt="Hotspots de Riqueza de Primatas na Mata Atlântica" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/hotspots_riqueza_congo_forest.png" alt="Hotspots de Riqueza de Primatas na Floresta do Congo" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/diversidade_shannon_por_regiao.png" alt="Índice de diversidade shannon" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/diversidade_simpson_por_regiao.png" alt="Índice de diversidade simpsom" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/Rplot.png" alt="Dotplot região avaliada" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/Rplot08.png" alt="Densidade de região avaliada" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/Rplot09.png" alt="TOP10 espécies mais abundantes" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/Rplot10.png" alt="Medidas resumo" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/Rplot11.png" alt="Árvore de relações" className="w-full h-auto rounded-lg shadow-md" />
+                  <img src="./images/Rplot12.png" alt="Densidade dos desvios avaliados" className="w-full h-auto rounded-lg shadow-md" />
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <Card>
